@@ -1,4 +1,5 @@
 ![Affectiva Logo](http://developer.affectiva.com/images/logo.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FAffectiva%2Faffdexme-android.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FAffectiva%2Faffdexme-android?ref=badge_shield)
 
 **AffdexMe** is an Android app that demonstrates the use of the Affdex SDK.  It uses the camera on your Android device to view, process and analyze live video of your face. Start the app and you will see your face on the screen and metrics describing your expressions. Tapping the screen will bring up a menu with options to display the Processed Frames Per Second metric, display facial tracking points, and control the rate at which frames are processed by the SDK.
 
@@ -14,3 +15,7 @@ If you are interested in learning how the Affectiva SDK works, you will find the
 Copyright (c) 2016 Affectiva Inc. <br> See the file [license.txt](license.txt) for copying permission.
 
 This app uses some of the excellent [Emoji One emojis](http://emojione.com).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FAffectiva%2Faffdexme-android.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FAffectiva%2Faffdexme-android?ref=badge_large)
